@@ -70,7 +70,7 @@ These visualizations allow users to explore the data dynamically.
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screen 1](dashboard1.png)
+![Dashboard Screen 1](Screenshot 2026-03-12 144906.png)
 
 
 ![Dashboard Screen 2](dashboard2.png)
